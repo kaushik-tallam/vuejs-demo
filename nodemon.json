@@ -1,0 +1,4 @@
+{
+  "watch": ["styleguide.config.js"],
+  "exec": "npx vue-styleguidist server"
+}
